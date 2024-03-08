@@ -1,3 +1,6 @@
+## About Project 
+Use streamlit to create a dashboard with the dataset jobs to give some insight about jobs in data field. 
+
 
 ## About Dataset
 - work_year: The year in which the data was recorded. This field indicates the temporal context of the data, important for understanding salary trends over time.
