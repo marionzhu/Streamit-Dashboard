@@ -1,6 +1,11 @@
 ## About Project 
 Use streamlit to create a dashboard with the dataset jobs to give some insight about jobs in data field. 
+![image](https://github.com/marionzhu/Streamit-Dashboard/assets/156293119/31abb2d4-b471-4028-8e09-a64ff3a4fcd8)
+![image](https://github.com/marionzhu/Streamit-Dashboard/assets/156293119/374e189a-fd3f-4e16-8494-9b4fb015fabe)
+![image](https://github.com/marionzhu/Streamit-Dashboard/assets/156293119/6b544849-4dc7-4e62-8c9d-644706e3328f)
 
+## Link of deployment
+https://jobs-and-salaries-in-data-sciencegit-kw333sp9judhspschk4u73.streamlit.app/
 
 ## About Dataset
 - work_year: The year in which the data was recorded. This field indicates the temporal context of the data, important for understanding salary trends over time.
